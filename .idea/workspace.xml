@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cc79b8-4a8d-4758-9b1a-2a56d03a4371" name="Default Changelist" comment="" />
+    <list default="true" id="71cc79b8-4a8d-4758-9b1a-2a56d03a4371" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/com.flink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GuMeiFeng &lt;gumfc@yonyou.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,6 +52,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UajyEwYHIbeu8SXzykw3bJtZ0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,6 +60,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -121,53 +135,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575601852881</updated>
-      <workItem from="1575601854335" duration="5562000" />
+      <workItem from="1575601854335" duration="7293000" />
     </task>
+    <task id="LOCAL-00001" summary="flink版本从1.6.2更新到1.9.1">
+      <created>1575622562174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575622562175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flink版本从1.6.2更新到1.9.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="flink版本从1.6.2更新到1.9.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1575611995322">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1575611995322" />
-    <state width="1632" height="683" key="GridCell.Tab.0.bottom" timestamp="1575612547163">
+    <state x="27" y="114" key="CommitChangelistDialog2" timestamp="1575622561807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547163" />
-    <state width="1632" height="683" key="GridCell.Tab.0.center" timestamp="1575612547162">
+    <state x="27" y="114" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1575622561807" />
+    <state width="1632" height="683" key="GridCell.Tab.0.bottom" timestamp="1575622913416">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547162" />
-    <state width="1632" height="683" key="GridCell.Tab.0.left" timestamp="1575612547161">
+    <state width="1632" height="683" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913416" />
+    <state width="1632" height="683" key="GridCell.Tab.0.center" timestamp="1575622913415">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547161" />
-    <state width="1632" height="683" key="GridCell.Tab.0.right" timestamp="1575612547163">
+    <state width="1632" height="683" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913415" />
+    <state width="1632" height="683" key="GridCell.Tab.0.left" timestamp="1575622913414">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547163" />
-    <state width="1632" height="683" key="GridCell.Tab.1.bottom" timestamp="1575612547166">
+    <state width="1632" height="683" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913414" />
+    <state width="1632" height="683" key="GridCell.Tab.0.right" timestamp="1575622913415">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547166" />
-    <state width="1632" height="683" key="GridCell.Tab.1.center" timestamp="1575612547165">
+    <state width="1632" height="683" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913415" />
+    <state width="1632" height="683" key="GridCell.Tab.1.bottom" timestamp="1575622913419">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547165" />
-    <state width="1632" height="683" key="GridCell.Tab.1.left" timestamp="1575612547164">
+    <state width="1632" height="683" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913419" />
+    <state width="1632" height="683" key="GridCell.Tab.1.center" timestamp="1575622913417">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547164" />
-    <state width="1632" height="683" key="GridCell.Tab.1.right" timestamp="1575612547165">
+    <state width="1632" height="683" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913417" />
+    <state width="1632" height="683" key="GridCell.Tab.1.left" timestamp="1575622913417">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1632" height="683" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547165" />
+    <state width="1632" height="683" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913417" />
+    <state width="1632" height="683" key="GridCell.Tab.1.right" timestamp="1575622913418">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575622913418" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1575612928256">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1575612928256" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2" timestamp="1575622565323">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1575622565323" />
   </component>
 </project>
