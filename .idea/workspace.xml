@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71cc79b8-4a8d-4758-9b1a-2a56d03a4371" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../tools/apache-maven-3.6.1/repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../tools/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="add-dependencies-for-IDEA" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UajyEwYHIbeu8SXzykw3bJtZ0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.WordCountPOJO">
+    <configuration name="BatchJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.flink.BatchJob" />
+      <module name="com.flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.flink.WordCount" />
+      <module name="com.flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountPOJO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.flink.WordCountPOJO" />
+      <module name="com.flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountPOJO" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.BatchJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71cc79b8-4a8d-4758-9b1a-2a56d03a4371" name="Default Changelist" comment="" />
+      <created>1575601852881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575601852881</updated>
+      <workItem from="1575601854335" duration="5562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1575611995322">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1575611995322" />
+    <state width="1632" height="683" key="GridCell.Tab.0.bottom" timestamp="1575612547163">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547163" />
+    <state width="1632" height="683" key="GridCell.Tab.0.center" timestamp="1575612547162">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547162" />
+    <state width="1632" height="683" key="GridCell.Tab.0.left" timestamp="1575612547161">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547161" />
+    <state width="1632" height="683" key="GridCell.Tab.0.right" timestamp="1575612547163">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547163" />
+    <state width="1632" height="683" key="GridCell.Tab.1.bottom" timestamp="1575612547166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547166" />
+    <state width="1632" height="683" key="GridCell.Tab.1.center" timestamp="1575612547165">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547165" />
+    <state width="1632" height="683" key="GridCell.Tab.1.left" timestamp="1575612547164">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547164" />
+    <state width="1632" height="683" key="GridCell.Tab.1.right" timestamp="1575612547165">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1632" height="683" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1575612547165" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1575612928256">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1575612928256" />
+  </component>
+</project>
